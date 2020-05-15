@@ -1,0 +1,1 @@
+this is a sample about page [About](https://github.com/kishan9907/COVID19/edit/master/about.md) to maintain and preview the content for your website in Markdown files
